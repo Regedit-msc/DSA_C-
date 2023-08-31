@@ -1,0 +1,19 @@
+# Ignore executables
+*.exe
+*.out
+*.app
+*.o
+
+# Ignore Mac-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Ignore C++ build artifacts
+*.dSYM/
+*.gcno
+*.gcda
+*.so
+*.dylib
